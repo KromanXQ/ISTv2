@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mail:Inbox xmlns:mail="http://viser.edu.rs/mail">
+    <mail:Email>
+        <mail:Posaljilac>darkonrt8517@gs.viser.edu.rs</mail:Posaljilac>
+        <mail:Primalac>steva@gmail.com</mail:Primalac>
+        <mail:Cc>zika@gmail.com</mail:Cc>
+        <mail:Bcc>mil@gmail.com</mail:Bcc>
+        <mail:Naslov>Naslov poruke</mail:Naslov>
+        <mail:Tekst>Pozdrav</mail:Tekst>
+        <mail:Datum>31.3.2020.</mail:Datum>
+    </mail:Email>
+</mail:Inbox>

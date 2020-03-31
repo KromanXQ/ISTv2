@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE newspaper SYSTEM "newspaper.dtd">
+<newspaper>
+    <article author="john doe" date="30.3.2020.">
+        <headline>headline1</headline>
+        <byline>byline1</byline>
+        <lead>lead1</lead>
+        <body>body1</body>
+        <notes>notes1</notes>
+    </article>
+    <article author="jane doe" editor="pera peric">
+        <headline>headline2</headline>
+        <byline>byline2</byline>
+        <lead>lead2</lead>
+        <body>body2</body>
+        <notes>notes2</notes>
+    </article>
+</newspaper>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE AutoOglas SYSTEM "autooglas.dtd">
+<AutoOglas>
+    <Automobil>
+        <Proizvodjac>BMW</Proizvodjac>
+        <Model tip="limuzina">320i</Model>
+        <Godiste>2009</Godiste>
+        <Farba tip="metalik">Crna</Farba>
+        <ZapreminaMotora jedinica="ccm">1968</ZapreminaMotora>
+        <Transmisija tip="auto">6</Transmisija>
+        <Gorivo tng="ne">Benzin</Gorivo>
+        <Cena valuta="eur">19900</Cena>
+        <KontaktProdavca>
+            <Ime>Darko</Ime>
+            <Prezime>Jovanovic</Prezime>
+            <BrojTelefona>+381643345987</BrojTelefona>
+        </KontaktProdavca>
+    </Automobil>
+</AutoOglas>

@@ -1,0 +1,17 @@
+<!DOCTYPE newspaper[ 
+<!ELEMENT newspaper (article+)>
+<!ELEMENT article (headline,byline,lead,body,notes)>
+<!ELEMENT headline (#PCDATA)>
+<!ELEMENT byline (#PCDATA)>
+<!ELEMENT lead (#PCDATA)>
+<!ELEMENT body (#PCDATA)>
+<!ELEMENT notes (#PCDATA)>
+<!ATTLIST article author CDATA #REQUIRED
+                    editor CDATA #IMPLIED
+                    date CDATA #IMPLIED
+                    edition CDATA #IMPLIED>
+                    
+<!ENTITY newspaper "The New York Times">
+<!ENTITY copyright "2020 The New York Times Company">
+<!ENTITY publisher "A.G. Sulzberger">
+]>

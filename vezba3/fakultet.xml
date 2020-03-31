@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE fakultet SYSTEM "fakultet.dtd">
+<fakultet>
+    <student status="studira" indeks="NRT-85//17">
+        <osoba>
+            <ime>Darko</ime>
+            <prezime>Jovanovic</prezime>
+            <mestoRodjenja>Beograd</mestoRodjenja>
+            <datumRodjenja>4.6.1998.</datumRodjenja>
+        </osoba>
+        <upisi>
+            <semestar vrsta="saf" broj="1" godina="2017">zimski</semestar>
+            <semestar vrsta="saf" broj="6" godina="2020">letnji</semestar>
+        </upisi>
+    </student>
+</fakultet>

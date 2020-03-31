@@ -1,0 +1,22 @@
+<!DOCTYPE AutoOglas[
+    <!ELEMENT AutoOglas (Automobil)+>
+    <!ELEMENT Automobil (Proizvodjac,Model,Godiste,Farba,ZapreminaMotora,Transmisija,Gorivo,Cena,KontaktProdavca)>
+    <!ELEMENT KontaktProdavca (Ime,Prezime,BrojTelefona)>
+    <!ELEMENT Proizvodjac (#PCDATA)>
+    <!ELEMENT Model (#PCDATA)>
+    <!ELEMENT Godiste (#PCDATA)>
+    <!ELEMENT Farba (#PCDATA)>
+    <!ELEMENT ZapreminaMotora (#PCDATA)>
+    <!ELEMENT Transmisija (#PCDATA)>
+    <!ELEMENT Gorivo (#PCDATA)>
+    <!ELEMENT Cena (#PCDATA)>
+    <!ELEMENT Ime (#PCDATA)>
+    <!ELEMENT Prezime (#PCDATA)>
+    <!ELEMENT BrojTelefona (#PCDATA)>
+    <!ATTLIST Model tip (limuzina|hecbek|karavan|kupe|kabriolet|minivan|dzip|pikap) #IMPLIED>
+    <!ATTLIST Farba tip (akril|metalik) #REQUIRED>
+    <!ATTLIST Transmisija tip (manuelni|auto) #REQUIRED>
+    <!ATTLIST Gorivo tng (da|ne) #IMPLIED>
+    <!ATTLIST ZapreminaMotora jedinica (ccm|l) #REQUIRED>
+    <!ATTLIST Cena valuta (din|eur) #IMPLIED>
+]>

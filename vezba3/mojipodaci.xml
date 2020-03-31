@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MojiPodaci>
+<PunoIme>
+<Ime>Darko</Ime>
+<Prezime>Jovanovic</Prezime>
+</PunoIme>
+<DatumRodjenja>
+<Dan>4</Dan>
+<Mesec>Jun</Mesec>
+<Godina>1998</Godina>
+</DatumRodjenja>
+<Adresa>
+<Ulica>Srednjokrajska 345</Ulica>
+<Naselje>Barajevo</Naselje>
+<Grad>Beograd</Grad>
+<Drzava>Srbija</Drzava>
+<Ptt>11400</Ptt>
+</Adresa>
+</MojiPodaci>
